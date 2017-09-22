@@ -1,9 +1,4 @@
 # Index
 {% for topic in topics -%}
-- [{{ topic|capitalize }}]({{ topic }})
+- ### [{{ topic|capitalize }}]({{ topic }})
 {% endfor -%}
-
-
-{% for topic in topics %}
-### {{ topic }}
-{% endfor %}
