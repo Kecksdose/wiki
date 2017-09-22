@@ -1,4 +1,4 @@
 # Index
-- ### [Ansible](ansible)
-- ### [Markdown](markdown)
-- ### [Python](python)
+- ### [Ansible](_html/ansible)
+- ### [Markdown](_html/markdown)
+- ### [Python](_html/python)

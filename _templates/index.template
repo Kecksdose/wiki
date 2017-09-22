@@ -1,4 +1,4 @@
 # Index
 {% for topic in topics -%}
-- ### [{{ topic|capitalize }}]({{ topic }})
+- ### [{{ topic|capitalize }}](_html/{{ topic }})
 {% endfor -%}
