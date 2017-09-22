@@ -1,3 +1,3 @@
 # Ansible
 
-Ansible is really cool.
+Ansible is really _really_ cool.
