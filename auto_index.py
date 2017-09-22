@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
     # Render index page
     rendered = render_template(content)
-    with open('README.md', 'w') as file:
+    with open('index.md', 'w') as file:
         file.write(rendered)
 
     # Topics to html
@@ -49,5 +49,5 @@ if __name__ == '__main__':
 
     # Index to html
     os.system(
-        'pandoc README.md > index.html'
+        'pandoc index.md > index.html'
     )
