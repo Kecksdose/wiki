@@ -26,5 +26,5 @@ if __name__ == '__main__':
         'topics': get_topics()
     }
     rendered = render_template(content)
-    with open('README.md', 'w') as file:
+    with open('index.md', 'w') as file:
         file.write(rendered)
