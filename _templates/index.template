@@ -1,6 +1,6 @@
 # Index
 {% for topic in topics -%}
-- [{{ topic }}]({{ topic }})
+- [{{ topic|capitalize }}]({{ topic }})
 {% endfor -%}
 
 

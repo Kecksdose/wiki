@@ -1,7 +1,7 @@
 # Index
-- [ansible](ansible)
-- [markdown](markdown)
-- [python](python)
+- [Ansible](ansible)
+- [Markdown](markdown)
+- [Python](python)
 
 ### ansible
 
